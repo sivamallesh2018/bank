@@ -1,0 +1,14 @@
+ssh -i "mykey.pem" ec2-user@192.166.23.5
+
+git config --global user.name "sivamallesh"
+
+git config --global user.email "sivamallesh2018@gmail.com"
+
+git init
+
+git remote add origin main https://github.com/sivamallesh2018/bank.git
+
+git push origin main
+
+username:sivamallesh2018
+pasword: Sivamallesh@2018 / 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
